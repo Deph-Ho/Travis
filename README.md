@@ -1,1 +1,1 @@
-ld Status](https://travis-ci.org/Deph-Ho/Travis.svg?branch=master)](https://travis-ci.org/Deph-Ho/Travis)
+[![Build Status](https://travis-ci.org/Deph-Ho/Travis.svg?branch=master)](https://travis-ci.org/Deph-Ho/Travis)
